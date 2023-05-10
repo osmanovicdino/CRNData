@@ -1,0 +1,2 @@
+c1 <-> c2 forward rate: 0.74 reverse rate: 0.03
+c2 <-> c3 forward rate: 0.22 reverse rate: 0.66
