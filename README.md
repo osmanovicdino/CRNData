@@ -1,3 +1,3 @@
 # CRNData
 
-All simulations were created in wolfram mathematica
+All simulations were written in C++ and performed using the repository at https://github.com/osmanovicdino/FieldTheory
